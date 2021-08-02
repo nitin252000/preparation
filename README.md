@@ -1,2 +1,1 @@
-# preparation
-dsa
+# preparation data structure and algorithms
